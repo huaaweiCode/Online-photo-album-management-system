@@ -1,10 +1,6 @@
 # 在线相册管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ： **相册**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -49,11 +45,5 @@
 
 ![相册详细信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207152257950.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ：**相册** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
